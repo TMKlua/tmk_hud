@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'Trew HUD UI'
+description 'HUD UI By TMK'
 
 
 ui_page 'html/ui.html'
